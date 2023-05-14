@@ -1,5 +1,8 @@
 {
     "nome": "bradesco",
+    "situacao": [
+        "semRestricao"
+    ],
     "valor": [
         "range5to10k",
         "range15to25k",

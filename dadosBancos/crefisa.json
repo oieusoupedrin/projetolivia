@@ -1,5 +1,9 @@
 {
     "nome": "crefisa",
+    "situacao": [
+        "semRestricao",
+        "negativado"
+    ],
     "valor": [
         "range0to2k",
         "range2to5k",

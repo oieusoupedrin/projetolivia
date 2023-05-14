@@ -1,5 +1,8 @@
 {
     "nome": "itau",
+    "situacao": [
+        "semRestricao"
+    ],
     "valor": [
         "range15to25k",
         "range25to50k",

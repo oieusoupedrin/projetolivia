@@ -1,5 +1,8 @@
 {
     "nome": "nubank",
+    "situacao": [
+        "semRestricao"
+    ],
     "valor":["range50to100k"],
     "tipo":["empresarial"],
     "tipoPessoa":["autonomo"]

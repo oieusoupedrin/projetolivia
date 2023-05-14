@@ -10,6 +10,6 @@ app.use(bodyParser.urlencoded({extended: false}))
 require ('./controllers/propostaController')(app)
 
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`)
+  console.log(`Api is listening on port ${port}`)
 })
 
