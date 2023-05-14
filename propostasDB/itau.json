@@ -1,0 +1,21 @@
+{
+    "nome": "itau",
+    "valor": [
+        "range15to25k",
+        "range25to50k",
+        "range50to100k"
+    ],
+    "tipo": [
+        "fgts",
+        "pessoal",
+        "consignado",
+        "empresarial"
+    ],
+    "tipoPessoa":[
+        "autonomo",
+        "assalariado",
+        "servidor",
+        "militar"
+    ]
+
+}

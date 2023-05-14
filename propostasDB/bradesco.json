@@ -1,0 +1,20 @@
+{
+    "nome": "bradesco",
+    "valor": [
+        "range5to10k",
+        "range15to25k",
+        "range25to50k",
+        "range50to100k"
+    ],
+    "tipo": [
+        "fgts",
+        "pessoal",
+        "consignado",
+        "empresarial"
+    ],
+    "tipoPessoa":[
+        "assalariado",
+        "servidor",
+        "militar"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "nome": "c6",
+    "valor": [
+        "range0to2k",
+        "range2to5k",
+        "range5to10k"
+    ],
+    "tipo": [
+        "fgts",
+        "pessoal",
+        "consignado",
+        "empresarial"
+    ],
+    "tipoPessoa":[
+        "aposentado",
+        "autonomo",
+        "assalariado",
+        "desempregado",
+        "servidor",
+        "militar"
+    ]
+}
