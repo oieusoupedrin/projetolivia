@@ -17,7 +17,7 @@ router.get('/propostas', async (req,res) => {
     console.log(req.query.valor)
     try {
 
-        const proposta = await Propostas.find({valor: req.query.valor, tipo: req.query.tipo, tipoPessoa: req.query.tipoPessoa})
+        const proposta = await Propostas.find({valor: req.query.valor, tipo: req.query.tipo, perfil: req.query.perfil})
         return res.send(proposta)
     } catch (error) {
         res.status(400).send({ error: 'Erro na Busca'})
